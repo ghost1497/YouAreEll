@@ -121,4 +121,6 @@ public class SimpleShell {
 
     }
 
+//    public String messageGetter()
+
 }
